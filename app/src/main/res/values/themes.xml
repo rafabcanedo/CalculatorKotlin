@@ -1,0 +1,17 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <style name="Base.Theme.TaskCollage" parent="Theme.AppCompat">
+
+        <item name="colorPrimary">@color/primary</item>
+        <item name="colorSecondary">@color/green</item>
+        <item name="colorOnPrimary">@color/white</item>
+        <item name="colorPrimaryVariant">@color/black</item>
+        <item name="colorContainer">@color/numbers</item>
+        <item name="colorOnBackground">@color/background</item>
+        <item name="colorOnSecondaryContainer">@color/gray</item>
+        <item name="colorError">@color/red</item>
+
+
+    </style>
+
+    <style name="Theme.TaskCollage" parent="Base.Theme.TaskCollage" />
+</resources>
